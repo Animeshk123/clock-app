@@ -83,4 +83,4 @@ showTimer();
 
 setInterval(() => {
     showTimer();
-});
+},200);
